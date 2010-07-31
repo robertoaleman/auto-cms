@@ -8,15 +8,15 @@ Something else important has been, create a web that permits make a back of all 
 
 == Installs Steps ==
 
-# Download Auto CMS
-# Unzip Auto CMS package
-# Edit data/vars.php file and modified this line
+1.- Download Auto CMS
+2.- Unzip Auto CMS package
+3.- Edit data/vars.php file and modified this line
 
 {{{
 define('site_url','http://yourdomain.com/');
 }}}
 
-Put your domain in this line, and go to footer and click in (`*`) simbol, to do login in control panel the initial password is 123
+4.-Put your domain in this line, and go to footer and click in (`*`) simbol, to do first login in control panel the initial password is 123
 
 === Enjoy Auto CMS, are you some questions? write me.. ===
 
