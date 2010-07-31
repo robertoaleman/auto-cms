@@ -15,7 +15,8 @@ Something else important has been, create a web that permits make a back of all 
 define('site_url','http://yourdomain.com/');
 }}}
 Put your domain in this line, and go to footer and click in (`*`) simbol, to do login in control panel the initial password is 123
-* Enjoy Auto CMS, are you some questions? write me.. 
+
+=== Enjoy Auto CMS, are you some questions? write me.. ===
 
 == Details ==
 
