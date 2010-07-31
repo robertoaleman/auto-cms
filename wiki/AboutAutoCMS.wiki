@@ -6,6 +6,17 @@ _Why I wrote AutoCMS?, since I have seen many managers of webs contents, that th
 Between as many options that it have seen, does not find one that out quickly, valid for the W3C (XHTML and CSS), that could acquire to below cost or free, and finally that was accessible to users that do not know a lot of on Internet or web programming. My initial idea was to create a CMS in order that the small undertakings or users they work in an autonomous way could have presence on Internet in a quick way and simple.
 Something else important has been, create a web that permits make a back of all your content with single unload the FTP way file, i want in the next versions include a link for download Backup in the BACKEND._
 
+== Installs Steps ==
+
+* Download Auto CMS
+* Unzip Auto CMS package
+* Edit data/vars.php file and modified this line
+{{{
+define('site_url','http://yourdomain.com/');
+}}}
+Put your domain in this line, and go to footer and click in (`*`) simbol, to do login in control panel the initial password is 123
+* Enjoy Auto CMS, are you some questions? write me.. 
+
 == Details ==
 
 The smaller CMS,all the necessary in the minimal space,provided all the minimum it needs to have presence on Internet, these are the qualities of this CMS:
