@@ -30,7 +30,7 @@ The smaller CMS,all the necessary in the minimal space,provided all the minimum 
  * Less than 10kb in the main file,with initial values,
  * No database required
  * Only one user (Admin)
- * Password is protected with md5
+ * Password is protected with SHA1
  * Css styles easy for built and to change
  * Very very fast for charge of page
  * XHTML and CSS Valid by W3C!
