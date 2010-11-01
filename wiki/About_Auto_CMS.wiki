@@ -16,7 +16,7 @@ Why I wrote AutoCMS?, since I have seen many managers of webs contents, that the
 
 {{{ define('site_url','http://yourdomain.com/');}}}
 
-4.-Put your domain in this line, and go to footer and click in (*) simbol, to do first login in control panel the initial password is 123
+4.-Put your domain in this line, and go to footer and click in asterisk simbol, to do first login in control panel the initial password is 123
 Enjoy Auto CMS, are you some questions? write me..
 
 = Details =
